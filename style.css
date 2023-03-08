@@ -1,0 +1,20 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  /* Clase fixed-width container que se "autocentrará" a sí misma */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    }
+.btn button {
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 10px,10px,10px,10px, black; 
+    height: 75px;
+    width: 200px;
+    margin-left: -350px;
+    margin-top: 10px;
+    }
